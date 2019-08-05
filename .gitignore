@@ -1,0 +1,5 @@
+multi/node_modules/
+simple/node_modules/
+.vagrant/
+multi/build/
+simple/ubuntu-xenial-16.04-cloudimg-console.log

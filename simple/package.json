@@ -1,0 +1,22 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "Simplest possible use of Node.js and Docker.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "docker:ls": "docker image ls",
+    "docker:ps": "docker container ls",
+    "docker:build": "docker build --file Dockerfile --tag=helloworld .",
+    "docker:run": "docker run -p 3000:3000 -d --name=helloworld helloworld",
+    "docker:stop": "docker stop helloworld",
+    "docker:shell": "docker run -it -p 3000:3000 helloworld bash",
+    "docker:remove-all": "docker rm --force $(docker ps -a -q) && docker rmi --force $(docker images -q)"
+  },
+  "keywords": [],
+  "author": "ashley@codecapers.com.au",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
