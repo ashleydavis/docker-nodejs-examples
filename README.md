@@ -1,10 +1,15 @@
 # docker-nodejs-examples
 
+Follow the developer on Twitter for updates on his new book Bootstrapping Microservices.
+
+Need to do exploratory coding, data analysis and visulalization in JavaScript/TypeScript? [Check out Data-Forge Notebook](http://www.data-forge-notebook.com/)
+
+
 Some basic examples of using Node.js and Docker.
 
 You can run these directly with Docker or use Vagrant. 
 
-To use Vagrant you need Vagrant and Virtual Box installed, then in this direct run
+To use Vagrant you need Vagrant and Virtual Box installed, then open a terminal, change into the repository's directory and run:
 
     vagrant up
 
