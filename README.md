@@ -6,7 +6,7 @@ You can run these directly with Docker or use Vagrant.
 
 Follow [the developer on Twitter](https://twitter.com/ashleydavis75) for updates on his new book Bootstrapping Microservices.
 
-Need to do exploratory coding, data analysis and visulalization in JavaScript/TypeScript? [Check out Data-Forge Notebook](http://www.data-forge-notebook.com/)
+Need to do exploratory coding, data analysis and visualization in JavaScript/TypeScript? [Check out Data-Forge Notebook](http://www.data-forge-notebook.com/)
 
 ## Setup
 
