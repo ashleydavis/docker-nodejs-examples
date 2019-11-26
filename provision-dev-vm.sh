@@ -32,7 +32,8 @@ sudo apt-get -yq install docker-ce
 docker --version
 
 sudo groupadd docker
-sudo gpasswd -a $USER docker
+sudo usermod -aG docker $USER
+newgrp docker
 sudo service docker restart
 
 #
