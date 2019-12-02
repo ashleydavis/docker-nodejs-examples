@@ -4,7 +4,9 @@ Some basic examples of using Node.js and Docker.
 
 You can run these directly with Docker or use Vagrant. 
 
-Follow [the developer on Twitter](https://twitter.com/ashleydavis75) for updates on his new book Bootstrapping Microservices.
+Follow [the developer on Twitter](https://twitter.com/ashleydavis75) for updates. 
+
+Need to build a microservices application? Learn how to do this with [Bootstrapping Microservices](http://bit.ly/2o0aDsP).
 
 Need to do exploratory coding, data analysis and visualization in JavaScript/TypeScript? [Check out Data-Forge Notebook](http://www.data-forge-notebook.com/)
 
