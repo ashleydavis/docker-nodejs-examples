@@ -2,9 +2,9 @@
 
 Some basic examples of using Node.js and Docker.
 
-You can run these directly with Docker or use Vagrant. 
+You can run these directly with Docker.
 
-Follow [the developer on Twitter](https://twitter.com/ashleydavis75) for updates. 
+Follow [the developer on Twitter](https://twitter.com/codecapers) for updates. 
 
 Need to build a microservices application? Learn how to do this with [Bootstrapping Microservices](http://bit.ly/2o0aDsP).
 
@@ -12,13 +12,7 @@ Need to do exploratory coding, data analysis and visualization in JavaScript/Typ
 
 ## Setup
 
-To use Vagrant you need Vagrant and Virtual Box installed, then open a terminal, change into the repository's directory and run:
-
-    vagrant up
-
-That will give you Linux VM with Docker installed that you can use to run the examples.
-
-Please see the README in each sub-directory for more instructions.
+Clone this repo and check the readme files in `simple` and `multi` subdirectories.
 
 ## Simplest example
 
