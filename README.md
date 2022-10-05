@@ -2,6 +2,8 @@
 
 Some basic examples of using Node.js and Docker.
 
+These examples acompany the blog [Crafting build pipelines with Docker](https://www.codecapers.com.au/crafting-build-pipelines-with-docker/).
+
 You can run these directly with Docker.
 
 Follow [the developer on Twitter](https://twitter.com/codecapers) for updates. 
