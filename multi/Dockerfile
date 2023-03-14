@@ -7,7 +7,7 @@ RUN npm install
 COPY ./src ./src
 RUN npm run build
 
-FROM node:16.13.1-alpine
+FROM node:16.19.1-alpine
 
 WORKDIR /usr/src/app
 COPY package*.json ./
