@@ -17,7 +17,7 @@
         "docker:remove-all": "docker rm --force $(docker ps -a -q) && docker rmi --force $(docker images -q)"
     },
     "dependencies": {
-        "express": "^4.17.1"
+        "express": "^4.19.2"
     },
     "devDependencies": {
         "@types/express": "^4.17.0",
